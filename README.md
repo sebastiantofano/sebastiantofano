@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **EPM Solutions**
 
-- 📫 How to reach me **sebastiantofano@gmail.com | sebastian.tofano@oracle.com**
+- 📫 How to reach me **sebastiantofano@gmail.com**
 
 - ⚡ Fun fact **I try to use technologies in my job**
 
@@ -46,7 +46,7 @@ ____
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            <img src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png"
                 alt="nodejs" width="60" height="60" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -101,6 +101,8 @@ ____
 <h3 align="left">Other Tools</h3>
 <p align="left" > <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; 
  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="60" height="60"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/58083159/158458696-bbba3311-5c42-46a4-a4f8-4af3f4e6bcbe.svg" alt="trello" width="60" height="60"/> </a> 
+            </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="60" height="60"/> </a> 
+            &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" alt="diagrams" width="60" height="60"/> </a> 
  </p> 
  
 ____
