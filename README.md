@@ -104,5 +104,5 @@ ____
  </p> 
  
 ____
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiantofano&show_icons=true&locale=en" alt="sebastiantofano" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiantofano&show_icons=true&locale=en&theme=vue-dark" alt="sebastiantofano" /></p>
 
