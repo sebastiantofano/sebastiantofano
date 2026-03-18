@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **EPM Projects & University Website Project** 
 
-- 🌱 I’m currently learning **.NET & Angular**
+- 🌱 I’m currently learning **React & AI with OpenCode**
 
 - 👯 I’m looking to collaborate on **EPM Solutions & Web Developments**
 
